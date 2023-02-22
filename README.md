@@ -1,8 +1,8 @@
-```
-This is a very simple Chat System that is written in C# using the .NET Framework.
+
+> This is a very simple Chat System that is written in C# using the .NET Framework.
 The application has two parts: the server side and the client side.
 The client have symmetric encryption and the server side generate a key for the client to validate the post request.
-```
+
 # Server side
 On the server side, there are two methods: HandlePostRequest and HandleGetRequest. The server runs a website on your local host with a simple user interface and display the chat messages that are encrypted.
 # Client side
